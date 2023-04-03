@@ -1,0 +1,70 @@
+.cards {
+  display: inline-block;
+  transform: translateY(250px);
+}
+
+.input {
+  width: 450px;
+  height: 80px;
+  border-radius: 25px;
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+  transform: translateY(150px) translateX(290px);
+  font-size: 20px;
+}
+
+.card {
+  width: 350px;
+  background-color: black;
+  color: white;
+  margin-left: 25px;
+}
+.card img {
+  margin-left: 25px;
+  margin-top: 15px;
+}
+.card h1 {
+  margin-left: 15px;
+}
+.card h2 {
+  margin-left: 15px;
+}
+.card h3 {
+  margin-left: 15px;
+}
+.card p {
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+.btn {
+  padding: 15px, 25px;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  height: 50px;
+  margin-left: 45px;
+  transform: translateY(210px) translateX(365px);
+}
+
+.locationcards {
+  display: inline-block;
+  transform: translateY(250px);
+}
+
+.like {
+  transform: translateY(250px) translateX(650px);
+  font-size: 22px;
+}
+
+.input2 {
+  width: 450px;
+  height: 80px;
+  border-radius: 25px;
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+  transform: translateY(200px) translateX(400px);
+  font-size: 20px;
+}/*# sourceMappingURL=diracter.css.map */
